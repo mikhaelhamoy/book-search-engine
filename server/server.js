@@ -39,7 +39,6 @@ app.use(express.json());
 
 db.once('open', () => {
   app.listen(PORT, () => console.log(`🌍 Now listening on localhost:${PORT}`));
-  });
 
   // Serve up static assets
   if (process.env.NODE_ENV === 'production') {
