@@ -19,6 +19,16 @@ Refactor a fully functional application into using GraphQL from REST api.
   
 ## Usage 
 
+![Homepage](./printscreen/homepage.jpg)
+
+![Login](./printscreen/login.jpg)
+
+![Sign Up](./printscreen/signUp.jpg)
+
+![Search Books](./printscreen/searchBooks.jpg)
+
+![Saved Books](./printscreen/savedBooks.jpg)
+
 ## Contributing 
  
 ## Tests 
